@@ -11,8 +11,5 @@
 
 
 
-https://github.com/Gabryelf/UnitTesteJava/blob/pyTest/resources/average_test_coverage.png?raw=true
-
-
 
 https://github.com/Gabryelf/UnitTesteJava/blob/pyTest/resources/average_test_coverage.png
