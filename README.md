@@ -15,4 +15,4 @@ compareAveragesWithSecondGreater: Тест проверяет, правильн�
 compareAveragesWithEqualAverages: Тест проверяет, правильно ли результат сравнения указывает, что средние значения равны. 
 
 
-src/main/resources/javaCoverageTestResult.png
+https://github.com/Gabryelf/UnitTesteJava/blob/2a5eb5c41418d00790bca1cbe6f6b92fc27839ea/src/main/resources/javaCoverageTestResult.png
