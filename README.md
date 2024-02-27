@@ -8,7 +8,7 @@
 
 
 
-![Uploading image.png…]()
+https://github.com/Gabryelf/UnitTesteJava/blob/544b05b9680219d3332bb566add89a8b7bddba8f/resources/average_test_coverage.png
 
 
 
